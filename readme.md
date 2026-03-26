@@ -1,4 +1,4 @@
 # Git
 This is for a practice purpose
 
-# this is from Bug branch
+# this is change for feature branch
