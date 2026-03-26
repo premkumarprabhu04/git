@@ -1,4 +1,7 @@
 # Git
 This is for a practice purpose
 
-# this is chage for feature branch
+# this is change for feature branch
+# this is feature 2.0
+
+
